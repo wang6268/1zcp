@@ -20,5 +20,5 @@ f1=open("词频统计.txt", 'w')
 for i in d:
     f1.write("%s\t%s\n" %(i[0],str(i[1])))
 f1.close()
-#1513热舞if发
+
 
