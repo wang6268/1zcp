@@ -1,4 +1,5 @@
 ﻿#zjt
+#-*-conding:utf-8-*-
 import os # 操作路径
 import re # 用于描述英文单词构成
 from collections import Counter # 字符统计器
